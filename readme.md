@@ -26,3 +26,9 @@ The algorithm used the model Word2Vec to get words with similar vectors. For ins
 - Creating an algorithm that analyzes nouns and verbs in movie scripts, relating them to genders and gender stereotypes in movies. 
 - Bringing the research to life by developing a website that provides movie recommendations based on similar movie's plots and tropes.
 
+  
+  References:
+[1]“Tv Tropes.” TV Tropes, tvtropes.org/.
+[2]Kar, Sudipta. Folksonomication: Predicting Tags for Movies from Plot Synopses Using Emotion Flow Encoded Neural Network, 2018
+[3]García-Ortega, Rubén Héctor. StarTroper, a Film Trope Rating Optimizer Using Machine Learning and Evolutionary Algorithms, 2020.
+
