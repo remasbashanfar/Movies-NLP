@@ -27,10 +27,10 @@ The algorithm used the model Word2Vec to get words with similar vectors. For ins
 - Bringing the research to life by developing a website that provides movie recommendations based on similar movie's plots and tropes.
 
   
-# References
+###### References
 - “Tv Tropes.” TV Tropes, tvtropes.org/.
 - Kar, Sudipta. Folksonomication: Predicting Tags for Movies from Plot Synopses Using Emotion Flow Encoded Neural Network, 2018
 - García-Ortega, Rubén Héctor. StarTroper, a Film Trope Rating Optimizer Using Machine Learning and Evolutionary Algorithms, 2020.
 
-# Acknowledgements
+###### Acknowledgements
   I'd like to thank Professor Arnav Jhala and Mandar Chaudhary for their guidance throughout this research.
